@@ -176,7 +176,7 @@ nav ul li a:hover {
 }
 
 body {
-    background-image: url('/florencia/Media/backroundimg.JPG');
+    background-image: url('/florencia/Media/background.jpg');
     /* Replace with your image path */
     background-size: cover;
     /* Makes the image cover the whole page */
